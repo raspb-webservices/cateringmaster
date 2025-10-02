@@ -6,7 +6,7 @@
   import Loader from '$lib/components/loader.svelte';
   import HEADER from '$lib/components/header.svelte';
   import FOOTER from '$lib/components/footer.svelte';
-  import favicon from '$lib/assets/favicon.svg';
+  import favicon from '$lib/assets/favicon.ico';
   import appleTouch from '$lib/assets/apple-touch-icon.png';
   import favicon32 from '$lib/assets/favicon-32x32.png';
   import favicon16 from '$lib/assets/favicon-16x16.png';
